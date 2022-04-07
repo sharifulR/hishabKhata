@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339289853173",
+    "firebase_url": "https://tallybook-55e3b.firebaseio.com",
+    "project_id": "tallybook-55e3b",
+    "storage_bucket": "tallybook-55e3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339289853173:android:d325f3f950e3208bab49bc",
+        "android_client_info": {
+          "package_name": "com.sublimeIT.hisabkhata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339289853173-4f7b0h0vd0lbgt92b3tqrs7358n6o9os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sublimeIT.hisabkhata",
+            "certificate_hash": "bc9b72f0d1220fcb9dc5c506930e25239f2cdd0c"
+          }
+        },
+        {
+          "client_id": "339289853173-fjn6891g065ipsi6kctm8fc0bsd0rkkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkKy1UL31kLMVsbpSZb0EIB5b986IHvG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339289853173-fjn6891g065ipsi6kctm8fc0bsd0rkkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
